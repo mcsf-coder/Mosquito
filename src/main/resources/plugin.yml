@@ -1,0 +1,6 @@
+name: Mosquito
+version: '${version}'
+
+main: org.mosquito.mosquito.Mosquito
+api-version: '26.3'
+load: POSTWORLD
